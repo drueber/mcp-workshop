@@ -6,6 +6,8 @@ Welcome! This markdown gives you a tiny crash course on the **Model Context Prot
 
 ## What is MCP?
 
+![](./MCP_general_architecture-min.png)
+
 > MCP (Model Context Protocol) is an open-source standard for connecting AI applications to external systems.
 > Using MCP, AI applications like Claude or ChatGPT can connect to data sources (e.g. local files, databases), tools (e.g. search engines, calculators) and workflows
 > (e.g. specialized prompts)—enabling them to access key information and perform tasks. 
